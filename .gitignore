@@ -1,5 +1,7 @@
 *.iml
 .gradle
+.kotlin/
+*.log
 /local.properties
 /.idea/
 .knownPackages
